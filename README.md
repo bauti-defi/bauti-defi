@@ -55,6 +55,7 @@ Coding is my passion. Here you will find everything I have made <b>since I was 1
 
 ![Bauti's github stats](https://github-readme-stats.vercel.app/api?username=bauti-defi&show_icons=true&hide_border=true)
 
-#### Wanna get in touch? Tweet me! <a href="https://twitter.com/bautiDeFi">
+#### Wanna get in touch? Tweet me! 
+<a href="https://twitter.com/BautiDeFi">
 <img align="left" alt="bauti.eth | Twitter" width="60px" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Emblem.png" />
 </a>

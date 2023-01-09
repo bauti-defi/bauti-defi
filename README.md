@@ -20,14 +20,14 @@ Coding is my passion. Here you will find everything I have made <b>since I was 1
 - Reverse Engineering
 - Security (Offensive)
 
-#### Things I have experience with
-- Java bytecode injection + runtime reflection
-- CTFs
-- Smart Contract and Blockchain development
-- Web Scraping
-- Data pipelines
-- Artificial Inteligence (mainly Reinforcement Learning)
-- Drinking Mate 🧉
+### What you can find in my code
+- OSRS bot scripts
+- Java reflection & injection clients
+- Curation of legacy (pre-hooks) react-native stuff
+- EVM based solidity contracts fun
+- Too many REST apis
+- Not enough frontends for them all ^
+- Other stupid shit I spent time on
 
 </br>
 

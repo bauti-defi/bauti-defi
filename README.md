@@ -7,9 +7,6 @@
 Coding is my passion. Here you will find everything I have made <b>since I was 16 years old</b>. 
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
-
-
 #### My CURRENT Interests
 
 - Decentralized applications

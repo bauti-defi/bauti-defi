@@ -18,10 +18,11 @@ Coding is my passion. Here you will find everything I have made <b>since I was 1
 - Security (Offensive)
 
 ### What you can find in my code
+- ZK Proof circuits
 - OSRS bot scripts
+- EVM based solidity contracts fun
 - Java reflection & injection clients
 - Curation of legacy (pre-hooks) react-native stuff
-- EVM based solidity contracts fun
 - Too many REST apis
 - Not enough frontends for them all ^
 - Other stupid shit I spent time on
